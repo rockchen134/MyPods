@@ -1,0 +1,22 @@
+{
+  "name": "MyPods",
+  "version": "0.1.0",
+  "summary": "A short description of MyPods.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/MyPods",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Rock Chen": "rock_chen@17life.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/MyPods.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyPods/Classes/**/*"
+}
